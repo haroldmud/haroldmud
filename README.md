@@ -9,7 +9,7 @@
 - 💻 Currently I'm training at microverse to become a Software developer in a remote and multicultural environment.<br><br>
 - 🌱 I’m currently learning Every skills related to javascript programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
-- ⚡ Fun fact: I like to play piano, one of my biggest passions.
+- ⚡ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
 
 ##
 
@@ -17,7 +17,7 @@
 const HAROLD_MUD = {
   pronouns: ['he','him'],
   location: ['Kigali', 'Rwanda'],
-  languages: ['c', 'C++', 'JavaScropt', 'React', 'Angular'],
+  languages: ['c', 'C++', 'JavaScript', 'React', 'Angular'],
   likelyUsed:['HTML&CSS', 'JavaScript']
   }
   ```
