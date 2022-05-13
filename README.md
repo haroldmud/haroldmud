@@ -17,7 +17,7 @@
 const HAROLD_MUD = {
   pronouns: ['he','him'],
   location: ['Kigali city', 'Rwanda'],
-  languages: ['c' ,'C++' , 'JavaScript' , 'React' , 'Angular' , 'Ruby'],
+  languages: ['C/C++' , 'JavaScript' , 'React' , 'Angular' , 'Ruby'],
   likelyUsed:['HTML&CSS', 'JavaScript']
   }
   ```
@@ -37,6 +37,4 @@ const HAROLD_MUD = {
 
 ##
 Meeting people and making new friends delights me, so I'll be honoured if you try to reach me out!😊
-
-
 
