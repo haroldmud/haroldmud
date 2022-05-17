@@ -26,6 +26,7 @@ const HAROLD_MUD = {
 
 # Certificates & Licenses
 
+
 <button> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49818030"><img src="./badge.png"></a> </button>
 
 ##
