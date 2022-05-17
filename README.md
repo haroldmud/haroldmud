@@ -3,7 +3,7 @@
 ![theweeknd](https://user-images.githubusercontent.com/91553966/167250968-18a2dd33-5f8a-4f2e-bbe3-fc998952f86d.gif)
 
  
- # 
+ # About me
 
 - 👨‍🎓 I hold a bachelor degree in Electronics and telecommunications Engeneering from Kigali Independant University.<br><br>
 - 💻 Currently I'm training at microverse to become a Software developer in a remote and multicultural environment.<br><br>
