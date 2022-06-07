@@ -38,5 +38,5 @@ const HAROLD_MUD = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroldmud&" alt="haroldmud" /></p>
 
 ##
-Meeting people and making new friends delights me, so I'll be honoured if you  decide to try reaching me out!😊
+Meeting people and making new friends delights me, so I'll be honoured if you  decide to try to reach me out!😊
 
