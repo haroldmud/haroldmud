@@ -1,7 +1,6 @@
 ## Hi there, I'm Harold 👋
 
-![theweeknd](https://user-images.githubusercontent.com/91553966/167250968-18a2dd33-5f8a-4f2e-bbe3-fc998952f86d.gif)
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="harold-mudosa" />
+<img src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
 
  
  # About me
