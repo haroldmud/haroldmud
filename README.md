@@ -28,6 +28,7 @@ const HAROLD_MUD = {
 # Certificates & Licenses
 
 <button> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49818030"><img src="./badge.png"></a> </button>
+<button><a href="https://www.credential.net/8c7350c7-22c7-4462-81af-1517c53c3ee3"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51723955"></a></button>
 
 ##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldmud&show_icons=true&locale=en&layout=compact" alt="haroldmud" /></p><br>
