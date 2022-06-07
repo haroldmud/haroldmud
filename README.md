@@ -1,6 +1,6 @@
 ## Hi there, I'm Harold 👋
 
-<img src="https://64.media.tumblr.com/1fdc557ee8ae894407fa1c9a862729ea/95a9c4952480baec-2a/s500x750/5cece191cc55299e515142e5d4a46170c8f461de.gifv"/>
+<img src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif"/>
 
  
  # About me
