@@ -30,12 +30,12 @@ const HAROLD_MUD = {
 
 ##
 
-# Certificates & Licenses
+# Certificates & Licenses (-> a)
 
-<button> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49818030"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49818030"></a> </button>
-<button><a href="https://www.credential.net/8c7350c7-22c7-4462-81af-1517c53c3ee3"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51723955"></a></button>
-<button><a href="https://www.credential.net/94700cbe-6b8b-45f2-aaa4-ebbcdeaa354c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636475"></a></button>
-<button><a href="https://www.credential.net/c3330ebb-323d-490b-b095-86839638e41d#gs.f342sc"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58192131"></a></button>
+<button> <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/49818030"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49818030a"></a> </button>
+<button><a href="https://www.credential.net/8c7350c7-22c7-4462-81af-1517c53c3ee3"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/51723955a"></a></button>
+<button><a href="https://www.credential.net/94700cbe-6b8b-45f2-aaa4-ebbcdeaa354c"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636475a"></a></button>
+<button><a href="https://www.credential.net/c3330ebb-323d-490b-b095-86839638e41d#gs.f342sc"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58192131a"></a></button>
 
 ##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldmud&show_icons=true&locale=en&layout=compact" alt="haroldmud" /></p><br>
