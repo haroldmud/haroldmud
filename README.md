@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Every skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
 - ⚡ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
- Fr
+ 
 ## Contacts
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroldmudosa@gmail.com)
