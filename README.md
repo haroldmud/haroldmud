@@ -5,7 +5,7 @@
  # About me
 
 - 👨‍🎓 I hold a bachelor degree in Electronics and telecommunications Engeneering from Kigali Independant University.<br><br>
-- 💻 Currently I'm training at theGym with APE-UNIT to become a Software developer in a remote and multicultural <br> environment.<br><br>
+- 💻 Currently I'm training at The Ape Unit trainee cohort(theGym) to become a Software developer in a remote and multicultural <br> environment.<br><br>
 - 🌱 I’m currently learning Every skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
 - ⚡ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
