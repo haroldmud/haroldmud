@@ -23,7 +23,7 @@
 const HAROLD_MUD = {
   pronouns: ['he','him'],
   location: ['Kigali city', 'Rwanda'],
-  languages: ['C/C++' , 'JavaScript' , 'React', 'Next' , 'Ruby'],
+  languages: ['C/C++' , 'JavaScript' , 'React', 'Next' , 'Ruby', 'MirageJs'],
   likelyUsed:['HTML&CSS', 'JavaScript']
   }
   ```
