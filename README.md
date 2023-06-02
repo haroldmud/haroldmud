@@ -11,7 +11,6 @@
 - 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
 - 
 
-
 #
 ```javascript
 const HAROLD_MUD = {
