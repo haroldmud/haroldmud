@@ -4,7 +4,7 @@
  
  # About me
 
-- 👨‍🎓 I hold a bachelor degree in Electronics and telecommunications Engeneering from Kigali Independant University.<br><br>
+- 👨‍🎓 I hold a bachelor's degree in Electronics and telecommunications Engineering from Kigali Independent University.<br><br>
 - 💻 Currently I'm training at The Ape Unit trainee cohort(theGym) to become a Software developer in a remote and multicultural <br> environment.<br><br>
 - 🌱 I’m currently learning Every skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
@@ -15,7 +15,7 @@
 const HAROLD_MUD = {
   pronouns: ['he','him'],
   location: ['Kigali city', 'Rwanda'],
-  languages: ['C/C++' , 'JavaScript' , 'React', 'Next' , 'Ruby', 'Mirage', 'Typescript'],
+  languages: ['C/C++', 'JavaScript', 'React', 'Next', 'Ruby', 'Mirage', 'Typescript'],
   likelyUsed:['HTML&CSS', 'JavaScript']
   }
   ```
