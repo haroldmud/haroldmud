@@ -8,7 +8,7 @@
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.
 - 🌱 I’m working using learning Every skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
-- 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
+- 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passion
 
 #
 ```javascript
