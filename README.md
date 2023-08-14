@@ -5,7 +5,7 @@
  # About me
 
 - 👨‍🎓 I'm a software Developper, I graduated  at The Ape Unit trainee cohort(TheGym) to become<br>
-    a Software developer in a remote and multicultural environment and also hold a bachelor's degree<br>
+    a Software developer in a remote and multicultural environment and I also hold a bachelor's degree<br>
 in Electronics and Telecommunications Engineering from Kigali Independent University.<br><br>
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
 - 🌱 I’m working using the different skills related to javascript <br>programing language.<br><br>
