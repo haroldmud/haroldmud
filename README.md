@@ -4,9 +4,9 @@
  
  # About me
 
-- 👨‍🎓 I'm a software Developper, I graduated  at The Ape Unit trainee cohort(theGym) to become a Software developer in a remote and multicultural environment and also hold a bachelor's degree in Electronics and Telecommunications Engineering from Kigali Independent University.<br><br>
+- 👨‍🎓 I'm a software Developper, I graduated  at The Ape Unit trainee cohort(TheGym) to become a Software developer in a remote and multicultural environment and also hold a bachelor's degree in Electronics and Telecommunications Engineering from Kigali Independent University.<br><br>
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.
-- 🌱 I’m working using learning Every skills related to javascript <br>programing language.<br><br>
+- 🌱 I’m working using the different skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
 - 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
 
