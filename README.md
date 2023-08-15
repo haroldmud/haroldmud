@@ -12,7 +12,6 @@ in Electronics and Telecommunications Engineering from Kigali Independent Univer
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
 - 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
 - 
-
 #
 ```javascript
 const HAROLD_MUD = {
