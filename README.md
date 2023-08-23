@@ -10,8 +10,7 @@ in Electronics and Telecommunications Engineering from Kigali Independent Univer
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
 - 🌱 I’m working using the different skills related to javascript <br>programing language.<br><br>
 - 📫 How to reach me(take a look at my link bio 😃).<br><br>
-- 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passionss
-  
+- 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passionss  
   
 #
 ```javascript
