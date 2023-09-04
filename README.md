@@ -17,8 +17,8 @@ in Electronics and Telecommunications Engineering from Kigali Independent Univer
 const HAROLD_MUD = {
   pronouns: ['he', 'him'],
   location: ['Kigali city', 'Rwanda'],
-  languages: ['C/C++', 'JavaScript', 'React', 'Next', 'Ruby', 'Mirage', 'Typescript'],
-  likelyUsed:['HTML&CSS', 'JavaScript']
+  languages: ['JavaScript','React', 'Next', 'Typescript', 'Mirage', 'Ruby','NodeJS','NestJS'],
+  likelyUsed:['JavaScript','NodeJS']
   }
   ```
 
