@@ -9,7 +9,6 @@
   a Software developer in a remote and multicultural environment.<br><br>
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
   
-#
 ```javascript
 const HAROLD_MUD = {
   pronouns: ['he', 'him'],
