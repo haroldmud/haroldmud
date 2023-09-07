@@ -4,13 +4,9 @@
  
  # About me
 
-- 👨‍🎓 I'm a software Developper, I graduated  at The Ape Unit trainee cohort(TheGym) to become<br>
-    a Software developer in a remote and multicultural environment and I also hold a bachelor's degree<br>
-in Electronics and Telecommunications Engineering from Kigali Independent University.<br><br>
+- 👨‍🎓 I graduated  at The Ape Unit trainee cohort(TheGym) to become<br>
+  a Software developer in a remote and multicultural environment.<br><br>
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
-- 🌱 I’m working using the different skills related to javascript <br>programing language.<br><br>
-- 📫 How to reach me(take a look at my link bio 😃).<br><br>
-- 🤾‍♀️ Fun fact: I like to play piano 👨‍🎤 , one of my biggest passions.
   
 #
 ```javascript
@@ -43,7 +39,3 @@ const HAROLD_MUD = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldmud&show_icons=true&locale=en" alt="haroldmood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroldmud&" alt="haroldmud" /></p>
-
-##
-Meeting people and making new friends delights me, so I'll be honoured if you  decide to try to reach me out!😊
-
