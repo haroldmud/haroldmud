@@ -5,8 +5,7 @@
 
 ## About me
 
-- 👨‍🎓 I graduated  at The Ape Unit trainee cohort(TheGym) to become<br>
-      a Software developer in a remote and multicultural environment.<br><br>
+- 👨‍🎓 I graduated  at The Ape Unit trainee cohort(TheGym) to become a Software developer in a remote and multicultural environment.<br><br>
 - 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
   
 ```javascript
