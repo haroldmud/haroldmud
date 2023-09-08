@@ -4,15 +4,8 @@
 
 🌍 I am a software Developer based in Kigali, Rwanda <br>
   
-```javascript
-const HAROLD_MUD = {
-  pronouns: ['he', 'him'],
-  location: ['Kigali city', 'Rwanda'],
-  languages: ['JavaScript','React', 'Next', 'Typescript', 'Mirage', 'Ruby','NodeJS','NestJS'],
-  likelyUsed:['JavaScript','NodeJS']
-  }
-  ```
-
+### Skills
+'JavaScript','React', 'Next', 'Typescript', 'Mirage', 'Ruby','NodeJS','NestJS' <br>
 ### Socials
 
 [![Twitter](https://img.shields.io/badge/twitter-%23D14836.svg?&style=for-the-badge&logo=twitter&logoColor=blue)]([https://twitter.com/](https://twitter.com/MudosaHarold))
