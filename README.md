@@ -13,7 +13,6 @@ const HAROLD_MUD = {
   likelyUsed:['JavaScript','NodeJS']
   }
   ```
-<br><br>
 
 ## Contacts
 
