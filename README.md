@@ -9,7 +9,7 @@ z<img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d
   const SKILLS = {
     frontend: ['HTML&CSS', 'TailwindCSS','JavaScript', 'TypeScript', 'React', 'Next', 'Figma'],
     backend: ['NodeJS','Nest', 'MongoBG', 'MySQL', 'Ruby' ],
-    tools: ['git', 'github', 'netlify', 'vercel'] 
+    tools: ['git', 'github', 'docker'] 
   }
 ```
  <br>
