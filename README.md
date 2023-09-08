@@ -2,7 +2,7 @@ z<img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d
 
 # Hey 👋 My name is Arnold MUDOSA
 
-🌍 I am a software Developer based in Kigali, Rwanda <br><br>
+🌍 I am a software Developer based in Kigali, Rwanda. <br><br>
   
 ### Skills
 ```javascript
