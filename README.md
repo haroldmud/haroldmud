@@ -6,7 +6,7 @@
   
 ### Skills
 ```javascript
-  const SKILLS = {
+  const TECHNICAL_SKILLS = {
     Frontend: ['HTML&CSS', 'TailwindCSS', 'JavaScript', 'TypeScript', 'React', 'Next'],
     Backend: ['NodeJS', 'Nest', 'MongoBG', 'MySQL', 'Ruby' ],
     Tools: ['git', 'github', 'docker', 'figma', 'thunkable'] 
