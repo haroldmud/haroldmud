@@ -3,8 +3,7 @@
 
 ## Hey 👋 My name is Arnold MUDOSA
 
-- 👨‍🎓 I graduated  at The Ape Unit taining cohort(TheGym) to become a Software developer in a remote and multicultural environment.<br><br>
-- 💻 Currently I'm working at Ojemba/Maiburnwolff.<br><br>
+- 👨‍🎓 I am a software Developer based in Kigali/Rwanda <br><br>
   
 ```javascript
 const HAROLD_MUD = {
