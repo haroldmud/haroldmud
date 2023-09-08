@@ -9,7 +9,7 @@
   const SKILLS = {
     frontend: ['HTML&CSS', 'TailwindCSS','JavaScript', 'TypeScript', 'React', 'Next'],
     backend: ['NodeJS','Nest', 'MongoBG', 'MySQL', 'Ruby' ],
-    tools: ['git', 'github', 'docker', 'Figma'] 
+    tools: ['git', 'github', 'docker', 'figma', 'thunkable'] 
   }
 ```
  <br>
