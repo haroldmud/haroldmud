@@ -28,6 +28,4 @@ const HAROLD_MUD = {
 ### Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldmud&show_icons=true&locale=en&layout=compact" alt="haroldmud" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroldmud&show_icons=true&locale=en" alt="haroldmood" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroldmud&" alt="haroldmud" /></p>
