@@ -13,9 +13,8 @@ const HAROLD_MUD = {
   }
   ```
 
-### Contacts
+### Socials
 
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:haroldmudosa@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%23D14836.svg?&style=for-the-badge&logo=twitter&logoColor=blue)]([https://twitter.com/](https://twitter.com/MudosaHarold))
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/harold-mudosa-40124021b/))
 <br><br>
