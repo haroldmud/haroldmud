@@ -4,7 +4,7 @@
 
 📍 I am a software Developer based in Kigali, Rwanda. <br><br>.s
 
-  
+
 ### Skills
 ```javascript
   const HARD_SKILLS = {
