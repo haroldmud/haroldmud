@@ -30,4 +30,4 @@
 ### Stats
 <button><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroldmud&show_icons=true&locale=en&layout=compact" alt="haroldmud" /></button>
 
-<button><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroldmud&" alt="haroldmud" /></button>
+<button><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroldmud&show_icons=true&locale=en&layout=compact" alt="haroldmud" /></button>
