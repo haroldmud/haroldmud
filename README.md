@@ -11,7 +11,7 @@
       'HTML&CSS','TailwindCSS', 'JavaScript', 'TypeScript',
       'React', 'ReactNative', 'Next'
     ],
-    Backend: ['NodeJS', 'Nest', 'MongoBG', 'MySQL', 'Ruby', 'Strapi' ],
+    Backend: ['NodeJS', 'Nest', 'MongoDB', 'MySQL', 'Ruby', 'Strapi' ],
     Tools: ['git', 'Github', 'docker', 'figma', 'thunkable'],
     Professional: ['Remote work', 'Pair-programming', 'Mentoring']
   }
