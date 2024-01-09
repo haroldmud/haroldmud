@@ -6,7 +6,7 @@
 
 ### Skills
 ```javascript
-  const HARD_SKILLS = {
+  const SKILLS = {
     Frontend: ['HTML&CSS','TailwindCSS', 'JavaScript', 'TypeScript', 'React', 'ReactNative', 'Next', 'Svelte'],
     Backend: ['NodeJS', 'Nest', 'MongoDB', 'MySQL', 'Ruby', 'StrapiCMS' ],
     Tools: ['git', 'Github', 'docker', 'figma', 'thunkable'],
