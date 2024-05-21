@@ -7,7 +7,7 @@
   const SKILLS = {
     Frontend:   ['HTML&CSS', 'TailwindCSS', 'JavaScript', 'TypeScript',
                  'React', 'ReactNative', 'Next', 'Svelte'],
-    Backend:    ['NodeJS', 'Nest', 'MongoDB', 'MySQL', 'Ruby',
+    Backend:    ['NodeJS', 'Nest', 'MongoDB', 'Supabase', 'MySQL', 'Ruby',
                  'StrapiCMS', 'Supabase' ],
     Tools:      ['git', 'Github', 'docker', 'figma',
                  'Thunkable'],
