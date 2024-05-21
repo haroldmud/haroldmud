@@ -9,10 +9,9 @@
                  'React', 'ReactNative', 'Next', 'Svelte'],
     Backend:    ['NodeJS', 'Nest', 'MongoDB', 'MySQL', 'Ruby',
                  'StrapiCMS', 'Supabase' ],
-    Tools:      ['git', 'Github', 'docker',
-                 'figma', 'Thunkable'],
-    SoftSkills: ['Remote work', 'Pair-programming',
-                 'Mentoring']
+    Tools:      ['git', 'Github', 'docker', 'figma',
+                 'Thunkable'],
+    SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
   }
 ```
  <br>
