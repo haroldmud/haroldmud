@@ -11,7 +11,7 @@
     Tools:      ['git', 'Github', 'docker', 'figma',
                  'Thunkable'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
-  }
+  };
 ```
  <br>
  
