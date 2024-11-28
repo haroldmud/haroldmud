@@ -8,7 +8,7 @@
                  'React', 'ReactNative', 'Next', 'Svelte'],
     Backend:    ['NodeJS', 'Nest', 'MongoDB', 'Supabase', 'MySQL', 'Ruby',
                  'StrapiCMS', 'Supabase' ],
-    Tools:      ['git', 'Github', 'docker', 'figma',
+    Tools:      ['Git', 'Github', 'docker', 'figma',
                  'Thunkable'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
   };
