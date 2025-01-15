@@ -4,10 +4,8 @@
 ### Skills
 ```javascript
   const SKILLS = {
-    Frontend:   ['HTML&CSS', 'TailwindCSS', 'JavaScript', 'TypeScript',
-                 'React', 'ReactNative', 'Next', 'Svelte'],
-    Backend:    ['NodeJS', 'Nest', 'MongoDB', 'Supabase', 'MySQL', 'Ruby',
-                 'StrapiCMS', 'Supabase' ],
+    Frontend:   ['Javascript', 'Java'],
+    Backend:    ['NodeJS', 'NestJS' ],
     Tools:      ['Git', 'Github', 'docker', 'figma',
                  'Thunkable'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
