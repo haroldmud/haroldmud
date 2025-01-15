@@ -6,8 +6,7 @@
   const SKILLS = {
     Frontend:   ['Javascript', 'Java'],
     Backend:    ['NodeJS', 'NestJS' ],
-    Tools:      ['Git', 'Github', 'docker', 'figma',
-                 'Thunkable'],
+    Tools:      ['Git', 'Github', 'docker', 'figma'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
   };
 ```
