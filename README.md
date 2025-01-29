@@ -8,7 +8,7 @@
     Backend:    ['NodeJS', 'NestJS' ],
     Tools:      ['Git', 'Github', 'docker', 'figma'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
-  };
+  }
 ```
  <br>
  
