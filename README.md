@@ -4,9 +4,9 @@
 ### Skills
 ```javascript
   const SKILLS = {
-    Frontend:   ['Javascript', 'Java'],
+    Frontend:   ['JavaScript', 'Java'],
     Backend:    ['NodeJS', 'NestJS' ],
-    Tools:      ['Git', 'Github', 'docker', 'figma'],
+    Tools:      ['Git', 'Github', 'Docker'],
     SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
   }
 ```
