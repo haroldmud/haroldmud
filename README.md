@@ -7,7 +7,7 @@
     Frontend:   ['JavaScript', 'Java'],
     Backend:    ['NodeJS', 'NestJS' ],
     Tools:      ['Git', 'Github', 'Docker'],
-    SoftSkills: ['Remote work', 'Pair-programming', 'Mentoring']
+    SoftSkills: ['Pair-programming', 'Mentoring']
   }
 ```
  <br>
