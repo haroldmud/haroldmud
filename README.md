@@ -1,4 +1,4 @@
-  # Hey 👋 My name is Arnold
+  # Hey 👋 My name is Arnold Mudosa
 📍 A Software Developer based in Kigali. <br>
 
 ### Skills
