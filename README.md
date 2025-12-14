@@ -1,5 +1,5 @@
   # Hey 👋 My name is Arnold Mudosa
-📍 A Software Developer based in Kigali.<br>
+📍 A Software Developer based in Kigali/Rwanda.<br>
 
 ### Skills
 ```javascript
