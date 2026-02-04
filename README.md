@@ -6,7 +6,7 @@
   const SKILLS = {
     Frontend:   ['JavaScript', 'Java', 'c++'],
     Backend:    ['NodeJS', 'NestJS' ],
-    Gaming:     ['Godot']
+    Gaming:     ['Godot'],
     Tools:      ['Git', 'Github', 'Docker'],
     SoftSkills: ['Pair-programming', 'Mentoring']
   }
