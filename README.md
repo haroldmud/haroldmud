@@ -1,11 +1,12 @@
   # Hey 👋 My name is Arnold Mudosa
-📍 A Software Developer based in Kigali/Rwanda.<br>
+📍 A Software and Gaming Developer based in Kigali/Rwanda.<br>
 
 ### Skills
 ```javascript
   const SKILLS = {
     Frontend:   ['JavaScript', 'Java', 'c++'],
     Backend:    ['NodeJS', 'NestJS' ],
+    Gaming: ['Godot']
     Tools:      ['Git', 'Github', 'Docker'],
     SoftSkills: ['Pair-programming', 'Mentoring']
   }
